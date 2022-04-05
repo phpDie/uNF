@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cf460e1746f6b347ad9889a732b88f1, type: 3}
+  m_Name: New IndEngineTun_DatabaseClass
+  m_EditorClassIdentifier: 
+  list:
+  - ind: Air
+    name: "\u0412\u043E\u0437\u0434\u0443\u0448\u043D\u044B\u0439 \u0444\u0438\u043B\u044C\u0442\u0440"
+    arrowUp: 1
+    color:
+      serializedVersion: 2
+      rgba: 4283433365
+    priceForLevel: 0.046
+    maxLevel: 4
+    boostForLevel:
+    - ind: 2
+      boostCofficient: -0.043
+    - ind: 1
+      boostCofficient: 0.081
+    - ind: 0
+      boostCofficient: -0.026
+    - ind: 1
+      boostCofficient: 0.087
+  - ind: Turbo
+    name: "\u0422\u0443\u0440\u0431\u0438\u043D\u0430"
+    arrowUp: 1
+    color:
+      serializedVersion: 2
+      rgba: 4286054513
+    priceForLevel: 0.101
+    maxLevel: 3
+    boostForLevel:
+    - ind: 1
+      boostCofficient: -0.056
+    - ind: 0
+      boostCofficient: 0.3
+  - ind: Ingot
+    name: "\u0417\u0430\u0436\u0438\u0433\u0430\u043D\u0438\u0435"
+    arrowUp: 1
+    color:
+      serializedVersion: 2
+      rgba: 4288020791
+    priceForLevel: 0.095
+    maxLevel: 4
+    boostForLevel:
+    - ind: 0
+      boostCofficient: 0.084
+    - ind: 8
+      boostCofficient: 0.13
+  - ind: Corbur
+    name: "\u0422\u043E\u043F\u043B\u0438\u0432\u043D\u0430\u044F \u0441\u0438\u0441\u0442\u0435\u043C\u0430"
+    arrowUp: 1
+    color:
+      serializedVersion: 2
+      rgba: 4288020843
+    priceForLevel: 0.07
+    maxLevel: 4
+    boostForLevel:
+    - ind: 0
+      boostCofficient: 0.079
+    - ind: 8
+      boostCofficient: 0.206
+  balanceList:
+  - ind: drift
+    name: "\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+    len: 10
+    left: Girp
+    right: Drift
+  - ind: acel
+    name: "\u0414\u0438\u043D\u0430\u043C\u0438\u043A\u0430"
+    len: 10
+    left: Dragster
+    right: Sprint
+  - ind: chis
+    name: "\u0428\u0430\u0441\u0441\u0438"
+    len: 10
+    left: Offroad
+    right: Race
+  engineAttribute:
+  - name: "\u0412\u0435\u0441"
+    ind: 3
+    ed: "\u043A\u0433."
+    ceilTo: 1
+    defVal: 1200
+    isSpinUp: 0
+  - name: "\u041C\u043E\u0449\u043D\u043E\u0441\u0442\u044C"
+    ind: 0
+    ed: "\u043B.\u0441."
+    ceilTo: 1
+    defVal: 120
+    isSpinUp: 1
+  - name: "\u041C\u0430\u043A\u0441.\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C"
+    ind: 1
+    ed: "\u043A\u043C/\u0447"
+    ceilTo: 1
+    defVal: 160
+    isSpinUp: 1
+  - name: "\u041F\u0440\u043E\u0447\u043D\u043E\u0441\u0442\u044C"
+    ind: 4
+    ed: point
+    ceilTo: 1
+    defVal: 30
+    isSpinUp: 1
+  - name: "\u0421\u043F\u0440\u0438\u043D\u0442 \u043F\u043E\u0442\u0430\u043D\u0446\u0438\u0430\u043B"
+    ind: 5
+    ed: Lev.
+    ceilTo: 10
+    defVal: 3
+    isSpinUp: 1
+  - name: "\u0414\u0440\u0438\u0444\u0442 \u043F\u043E\u0442\u0430\u043D\u0446\u0438\u0430\u043B"
+    ind: 6
+    ed: Lev.
+    ceilTo: 10
+    defVal: 2
+    isSpinUp: 1
+  colorFromLevel:
+  - serializedVersion: 2
+    rgba: 4281348144
+  - serializedVersion: 2
+    rgba: 4284357757
+  - serializedVersion: 2
+    rgba: 4280294525
+  - serializedVersion: 2
+    rgba: 4286389323
+  - serializedVersion: 2
+    rgba: 4290786341
+  - serializedVersion: 2
+    rgba: 4292673728

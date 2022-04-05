@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960891e27212a44490ea1bf6e2c98fa, type: 3}
+  m_Name: Main Project Setting
+  m_EditorClassIdentifier: 
+  carSpawnerSystem: {fileID: 11400000, guid: d8091f9cff9086b4d940ab83d1394590, type: 2}
+  tuneDatabaseClass: {fileID: 11400000, guid: 92add1635d117024e952de04a9b01cba, type: 2}
+  keyCodeIconsDatabaseClass: {fileID: 11400000, guid: b07e8998d590c9c41ae866a4e037faab, type: 2}
+  indEngineTune: {fileID: 11400000, guid: 8d16c5e38df915648b7289ed0538bf1b, type: 2}
+  brends:
+  - {fileID: 21300000, guid: bc6fc7bb3be5cfb44a2214d068bcf6df, type: 3}
+  - {fileID: 21300000, guid: 7f4691abeb281a34e8c0af39f1cd4c3b, type: 3}
+  - {fileID: 21300000, guid: 808b8855d8b9420458542fdd1c9ccf35, type: 3}
+  - {fileID: 21300000, guid: 0dfc417f9059a9148827b6c44f96ffa0, type: 3}
+  - {fileID: 21300000, guid: 01bdf395806d6c444a96119887c4b268, type: 3}
+  - {fileID: 21300000, guid: 75a99416138df394f93b641aaa531e13, type: 3}
+  - {fileID: 21300000, guid: 03f1a48a560b6b74e801addae0dd339b, type: 3}
+  - {fileID: 21300000, guid: 804a5d1452e4ae64a83e6fd0f11746ad, type: 3}
+  - {fileID: 21300000, guid: 19adbd69840ff6f459e8dd034a504289, type: 3}
+  - {fileID: 21300000, guid: 19adbd69840ff6f459e8dd034a504289, type: 3}
+  - {fileID: 21300000, guid: 19adbd69840ff6f459e8dd034a504289, type: 3}
+  dataStore: {fileID: 11400000, guid: 0489f7e43ce5cc24fbe2cf5381f295f9, type: 2}
+  audioMixer: {fileID: 24100000, guid: 71313ef75819ff247926c442304f7965, type: 2}

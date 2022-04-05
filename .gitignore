@@ -1,0 +1,173 @@
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+*.ttf
+*.apk
+*.unitypackage
+*.fbx
+*.jpg
+*.png
+*.meta
+*.png
+*.obj
+*.mp3
+*.dds
+*.mat
+*.psd
+*.terrainlayer
+*.tif
+*.WAV
+*.TGA
+*.psd
+*.psd
+*.meta
+*.psd
+*.psd
+Assets/Assets/E36/E36.fbm/M3_E36 Light Emission.psd
+Library/
+Packages/./Assets/Garage/Models/Engine/CAT_C32_1417KW_Engine.obj
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostmac/lld
+./Library/PlayerDataCache/Win/Data/sharedassets0.assets.resS
+./Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
+./Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS
+./Assets/Cars/NfsModels/bnwx6/Vehicle.FBX
+./Assets/Cars/NfsModels/Nissan Skyline R32/Vehicle.max
+./Assets/Garage/Models/Engine/CAT_C32_1417KW_Engine.obj
+./Assets/Quixel/Megascans/3D_Assets/Rusty Metal Shelf_vhtmaifaw/Textures/Albedo_4K__vhtmaifaw.png
+./Assets/Quixel/Megascans/3D_Assets/Rusty Metal Shelf_vhtmaifaw/Textures/Normal_4K_LOD0_vhtmaifaw.png
+./Assets/Quixel/Megascans/3D_Assets/Stained Concrete Pillar_ukigcctfa/Textures/Albedo_4K__ukigcctfa.png
+./Assets/Quixel/Megascans/3D_Assets/Stained Concrete Pillar_ukigcctfa/Textures/Normal_4K_LOD0_ukigcctfa.png
+./Assets/Quixel/Megascans/Decals/Round Manhole Cover_tgopdaydw/Textures/Albedo_4K__tgopdaydw.png
+./Assets/Quixel/Megascans/Decals/Round Manhole Cover_tgopdaydw/Textures/Normal_4K__tgopdaydw.png
+./Assets/Quixel/Megascans/Surfaces/Lawn Grass_sbykrmp0/Textures/Albedo_4K__sbykrmp0.png
+./Assets/Quixel/Megascans/Surfaces/Lawn Grass_sbykrmp0/Textures/Masks_4K__sbykrmp0.png
+./Assets/Quixel/Megascans/Surfaces/Lawn Grass_sbykrmp0/Textures/Normal_4K__sbykrmp0.png
+./Assets/Quixel/Megascans/Surfaces/Mossy Forest Floor_vmclaaalw/Textures/Albedo_4K__vmclaaalw.png
+./Assets/Quixel/Megascans/Surfaces/Mossy Forest Floor_vmclaaalw/Textures/Masks_4K__vmclaaalw.png
+./Assets/Quixel/Megascans/Surfaces/Mossy Forest Floor_vmclaaalw/Textures/Normal_4K__vmclaaalw.png
+./Assets/Quixel/Megascans/Surfaces/Painted Brick Wall_vhqncjb/Textures/Albedo_4K__vhqncjb.png
+./Assets/Quixel/Megascans/Surfaces/Painted Brick Wall_vhqncjb/Textures/AO_4K__vhqncjb.png
+./Assets/Quixel/Megascans/Surfaces/Painted Brick Wall_vhqncjb/Textures/Masks_4K__vhqncjb.png
+./Assets/Quixel/Megascans/Surfaces/Painted Brick Wall_vhqncjb/Textures/Normal_4K__vhqncjb.png
+./Assets/Quixel/Megascans/Surfaces/Road wet2_46be6LsrJ0CeKz9hWaCEoQ/Textures/AO_4K__46be6LsrJ0CeKz9hWaCEoQ.png
+./Assets/Quixel/Megascans/Surfaces/Road wet2_46be6LsrJ0CeKz9hWaCEoQ/Textures/Normal_4K__46be6LsrJ0CeKz9hWaCEoQ.png
+./Assets/Quixel/Megascans/Surfaces/Roman Limestone Wall_thzldg2qx/Textures/Albedo_4K__thzldg2qx.png
+./Assets/Quixel/Megascans/Surfaces/Roman Limestone Wall_thzldg2qx/Textures/Masks_4K__thzldg2qx.png
+./Assets/Quixel/Megascans/Surfaces/Rough Asphalt_vhjlbjt/Textures/Albedo_4K__vhjlbjt.png
+./Assets/Quixel/Megascans/Surfaces/Rough Asphalt_vhjlbjt/Textures/Masks_4K__vhjlbjt.png
+./Assets/Quixel/Megascans/Surfaces/Rough Asphalt_vhjlbjt/Textures/Normal_4K__vhjlbjt.png
+./Assets/Quixel/Megascans/Surfaces/Rusted Painted Metal_tebjbjan/Textures/Albedo_8K__tebjbjan.png
+./Assets/Quixel/Megascans/Surfaces/Rusted Painted Metal_tebjbjan/Textures/Masks_8K__tebjbjan.png
+./Assets/Quixel/Megascans/Surfaces/Rusted Painted Metal_tebjbjan/Textures/Normal_8K__tebjbjan.png
+./Library/ArtifactDB
+./Library/Artifacts/04/04ec88da0824c457ae5ebbc4c631e5a7
+./Library/Artifacts/09/09a6d9f8b3c38485bdcd892d040dd7d7
+./Library/Artifacts/0d/0dd8574a3e216fb8b321cc2979d02cf5
+./Library/Artifacts/13/13620c9c6e837e9494ec05a8923c2fc7
+./Library/Artifacts/14/14ada013e205dbee41c1443f322b9072
+./Library/Artifacts/1e/1e792090c384e8e434dc0fbdb64c8971
+./Library/Artifacts/21/21d71e76d9c22b0b0e742985ead59a5d
+./Library/Artifacts/22/22fbd2f4afb6118b9c6e6a7d5b6a5ac7
+./Library/Artifacts/24/24f8868dab5117916c497ccf5ee22fab
+./Library/Artifacts/2a/2af971e8e63e7dda7e4b3604901f09b4
+./Library/Artifacts/2d/2d1ef86e25a603805001e116d64b0ec4
+./Library/Artifacts/33/338d8bbc8b41b8ed29327ce8aeb9b897
+./Library/Artifacts/38/38141ca3eb569646653ea55d61c984a4
+./Library/Artifacts/3a/3a5fd40969f21158b67ef68d97066179
+./Library/Artifacts/3c/3c796513aadad415642e9df3de734888
+./Library/Artifacts/40/408b1b4d4876fbbb760e891f18e54062
+./Library/Artifacts/40/40f7d6d56b328dfbf43a0108132dfcb6
+./Library/Artifacts/46/469b961d5543fc3061dc9c636f571cdb
+./Library/Artifacts/4d/4d676075b37776c789833d1703b6d333
+./Library/Artifacts/54/541396d87c784d715bfb539336191065
+./Library/Artifacts/59/5964c143145e57085cc6ba1e9cf0be5a
+./Library/Artifacts/61/610d92ace6dd871e92883123441aed04
+./Library/Artifacts/6a/6af835e34abea9e04a7bb9b46a54ee7e
+./Library/Artifacts/71/71f085ea50cb5c3ef425cafc8c5125b1
+./Library/Artifacts/79/79d279cbb78794f413b6109012ea38ad
+./Library/Artifacts/7a/7a2b2f17bce173f309c605b8bb3321d5
+./Library/Artifacts/88/88183ff30f93a694b3bfdea60658f161
+./Library/Artifacts/8a/8a0d9f7cccac4afeb20a3a55aa30fff5
+./Library/Artifacts/9b/9bbaa0ea00419674e55cb0c8e9c9fb90
+./Library/Artifacts/a0/a004a4d96ea1007461833a7e2b574b4d
+./Library/Artifacts/c0/c002ceaa22881badac5d6aaf14aeb863
+./Library/Artifacts/c0/c025e5b83c35fcced126a4ff250bd239
+./Library/Artifacts/dd/dd1b32e0ae52b66a031b68c4b0018fcb
+./Library/Artifacts/dd/ddfca65cad254725cd07d6506187fcba
+./Library/Artifacts/ff/ff25503bd7b0e4fc788c84cc8145b272
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-10.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-11.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-43FFF67504C1B77C_11.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-43FFF67504C1B77C_12.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-B4B9E3881B00232E_11.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/burst-llvm-B4B9E3881B00232E_12.dll
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostlin/dsymutil
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostlin/lld
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostmac/dsymutil
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostmac/lld
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostwin/dsymutil.exe
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/hostwin/lld.exe
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/libburst-llvm-10.dylib
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/libburst-llvm-11.dylib
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/libburst-llvm-11.so
+./Library/PackageCache/com.unity.burst@1.6.4/.Runtime/libburst-llvm-8.dylib
+./Library/PlayerDataCache/Win/Data/sharedassets0.assets
+./Library/PlayerDataCache/Win/Data/sharedassets0.assets.resS
+./Library/PlayerDataCache/Win64/Data/resources.assets.resS
+./Library/PlayerDataCache/Win64/Data/sharedassets0.assets
+./Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
+./Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS
